@@ -1,0 +1,1 @@
+0 3 * * * root /opt/gitlab-backup.sh 3 > /dev/null 2>&1
